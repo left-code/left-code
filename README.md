@@ -31,3 +31,7 @@ I spend my time -
 [Twitter 🐦](https://twitter.com/sasa_prodanovic)
 
 <!-- [Website 🌍](https://left-code.dev/) -->
+
+<br>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=left-code.left-code)
