@@ -4,12 +4,12 @@
 
 I&#x27;m a Software Developer working at [Singhammer IT Consulting AG](https://www.singhammer.com)
 
-My point of interest is `.NET`, `Azure`, `DevOps`, `Business applications` and `Microsoft Dynamics NAV/BC solution development`.
+My point of interest is `DevOps`, `Azure`, `.NET` and `Microsoft Dynamic 365 Business Central solution development`.
 
 I spend my time -
 
 * in `VSCode` writing **AL**, **PowerShell**, **YAML**, **JavaScript** and **TypeScript** code
-* in `Windows Terminal` writing **git**, **docker** and **dotnet** commands
+* in `Windows Terminal` writing **docker**, **dotnet** and **git** commands
 * in `SSMS` and `Azure Data Studio` writing **SQL Queries**
 * in `NAV Development Client` writing **C/AL** code
 * in `Visual Studio` writing **C#** code
@@ -31,7 +31,3 @@ I spend my time -
 [Twitter 🐦](https://twitter.com/sasa_prodanovic)
 
 <!-- [Website 🌍](https://left-code.dev/) -->
-
-<br>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=left-code.left-code)
