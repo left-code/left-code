@@ -16,16 +16,6 @@ I spend my time -
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=left-code&count_private=true&show_icons=true&custom_title=Sasa%27s%20GitHub%20Stats&theme=radical" alt="left-code-github" />
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=left_code&layout=compact&theme=radical&custom_title=Sasa%27s%20Weekly%20%20Counters" alt="left-code-wakatime" />
-
-
-<br>
-<br>
-
 [LinkedIn 💼](https://linkedin.com/in/prodanovic)
 
 [Twitter 🐦](https://twitter.com/sasa_prodanovic)
